@@ -1,7 +1,7 @@
 # Учебный проект «Код и Магия» [![Build status][travis-image]][travis-url]
 
 * Студент: [Алёна Честная](https://up.htmlacademy.ru/javascript/13/user/200224).
-* Наставник: `Неизвестно`.
+* Наставник: `Анна Тюрина`.
 
 ---
 
